@@ -1,3 +1,3 @@
 
 
-console.log(document.getElementById("button").value);
+console.log(document.getElementByC("button").value);
