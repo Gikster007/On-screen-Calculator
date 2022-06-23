@@ -1,4 +1,20 @@
-#Button0{
-    width: 50px;
+button[value = "0"]{
+    width: 165px
 }
 
+.Button{
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    color: rgb(16, 17, 17);
+    background-color: rgb(255, 208, 215);
+
+}
+
+.Button:hover {
+    background-color: rgb(201, 131, 146)
+}
+
+#input{
+    width: 320px;
+}
