@@ -1,3 +1,6 @@
 
+function test() {
+    document.getElementById("input").value += document.getElementById("Button").value;
+}
 
-console.log(document.getElementByC("button").value);
+document.getElementById("Button").addEventListener("click", test);
