@@ -12,9 +12,23 @@ button[value = "0"]{
 }
 
 .Button:hover {
-    background-color: rgb(201, 131, 146)
+    background-color: rgb(201, 131, 146);
+    
 }
 
 #input{
     width: 320px;
+    height: 60px;
+    right: 150px;
+    padding-right: 15px;
+    font-size: 30px;
+    color: rgb(16, 17, 17);
+    
+}
+
+body{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
 }
